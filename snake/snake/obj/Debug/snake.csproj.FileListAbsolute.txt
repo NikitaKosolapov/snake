@@ -1,0 +1,5 @@
+/Users/tata/Desktop/Nikita/Courses/snake/snake/snake/bin/Debug/snake.exe
+/Users/tata/Desktop/Nikita/Courses/snake/snake/snake/bin/Debug/snake.pdb
+/Users/tata/Desktop/Nikita/Courses/snake/snake/snake/obj/Debug/snake.csprojAssemblyReference.cache
+/Users/tata/Desktop/Nikita/Courses/snake/snake/snake/obj/Debug/snake.exe
+/Users/tata/Desktop/Nikita/Courses/snake/snake/snake/obj/Debug/snake.pdb
