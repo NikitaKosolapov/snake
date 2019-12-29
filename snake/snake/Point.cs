@@ -1,4 +1,6 @@
 ﻿using System;
+using static System.Console;
+
 namespace snake
 {
     public class Point
@@ -20,8 +22,8 @@ namespace snake
 
         public void Draw()
         {
-            Console.SetCursorPosition(x, y);
-            Console.Write(sym);
+            SetCursorPosition(x, y);
+            Write(sym);
         }
      
     }
